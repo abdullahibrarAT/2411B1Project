@@ -1,0 +1,152 @@
+.header
+{
+    background-color: rgb(19, 18, 18);
+    height: 170px;
+    align-items: center;
+    display: flex;
+}
+.div0
+{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.nav
+{
+    background-color: rgb(19, 18, 18) ;
+    height: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1{
+    background-color:  rgba(73, 70, 70, 0.275);
+    height: 180px;
+    width: 300px;
+    border-radius: 3%;
+    justify-content: center;
+}
+.div10
+{
+    margin-right: 30px;
+    background-color:  rgba(73, 70, 70, 0.275);
+    height: 180px;
+    width: 300px;
+    justify-content: center;
+    border-radius: 3%;
+}
+.div11
+{
+    margin-left: 30px;
+    background-color: rgba(73, 70, 70, 0.275);
+    height: 180px;
+    width: 300px;
+    justify-content: center;
+    border-radius: 3%;
+}
+.blank{
+    background-color:  rgb(19, 18, 18);
+    height: 100px;
+
+}
+.parent
+{
+    background-color:  rgb(19, 18, 18);
+    height: 170px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+.div2
+{
+
+    height: 100px;
+    width: 100px;
+    margin-bottom: 70px;
+    margin-left: 30px;
+}
+.div3
+{
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    font-family:  arial ;
+    font-size: 100px;
+    font-weight: 600;
+    color: azure;
+    margin-left: 50px;
+}
+.mini
+{
+
+    height: 80px;
+    width: 130px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#icon
+{
+    color: white;
+    font-size: 40px ;
+}
+#icon1
+{
+    color: rgb(244, 180, 180);
+    font-size: 40px ;
+}
+.div12
+{
+    background-color: rgba(240, 100, 100, 0.479);
+    height: 180px;
+    width: 300px;
+    border-radius: 3%;
+    justify-content: center;
+    align-items: center;
+}
+.span
+{
+    color: orange;
+    font-family:  sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    width: 280px;
+}
+.span1
+{
+    width: 230px;
+    height: 50px;
+    font-size: 17px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-right: 30px;    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.span2
+{
+    color: rgba(238, 132, 70, 0.479);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    width: 280px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div4
+{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 70px;
+    margin-right: 70px;
+}
